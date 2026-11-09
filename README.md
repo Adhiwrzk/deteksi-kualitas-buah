@@ -8,7 +8,7 @@ Fruits Dataset for Fruit Disease Classification (Kaggle), bagian apel:
 https://www.kaggle.com/datasets/ateebnoone/fruits-dataset-for-fruit-disease-classification
 
 Struktur folder yang dibutuhkan notebook:
-dataset/
+Dataset/
   Bagus/
   Busuk/
   Bercak/
